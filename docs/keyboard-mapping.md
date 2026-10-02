@@ -1,4 +1,4 @@
-# RealPiano Computer Keyboard Mapping
+# Piano-studio Computer Keyboard Mapping
 
 The computer keyboard is intentionally used as a three-row piano controller.
 

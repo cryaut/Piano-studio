@@ -9,3 +9,6 @@ tmp-*.png
 *.log
 .env*
 !.env.example
+.opencode/
+.agents/
+scratch/

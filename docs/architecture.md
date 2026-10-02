@@ -1,8 +1,8 @@
-# RealPiano Studio Architecture Notes
+# Piano-studio Architecture Notes
 
 ## Product Direction
 
-RealPiano Studio is moving from a simple playable piano app toward a browser-based practice workstation: low-latency input, reliable game scoring, recording, import/export, and a piano-roll editor that can create playable lessons.
+Piano-studio is moving from a simple playable piano app toward a browser-based practice workstation: low-latency input, reliable game scoring, recording, import/export, and a piano-roll editor that can create playable lessons.
 
 ## Current Architecture
 
